@@ -1,0 +1,8 @@
+{
+"customerName": "*CustomerID*",
+"clientId": "*ClientID*",
+"clientSecret": "*ClientSecret*",
+"resourceLocationId": "*ResourceLocationId*",
+"acceptTermsOfService": "true",
+}
+ 
