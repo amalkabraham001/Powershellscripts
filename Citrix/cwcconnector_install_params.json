@@ -3,6 +3,6 @@
 "clientId": "*ClientID*",
 "clientSecret": "*ClientSecret*",
 "resourceLocationId": "*ResourceLocationId*",
-"acceptTermsOfService": "true",
+"acceptTermsOfService": "true"
 }
  
